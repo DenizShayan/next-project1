@@ -1,0 +1,9 @@
+{
+    "compiler Options" : {
+        "paths": {
+            "@/*": ["./src/*"],
+            "@/public/*": ["./public/*"],
+
+        }
+    }
+}
